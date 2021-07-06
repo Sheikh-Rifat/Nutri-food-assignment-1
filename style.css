@@ -153,11 +153,13 @@ body {
 }
 .footer{
     padding-top: 80px;
+   
 }
 .footer-colum{
     display: flex;
     background-color: #202020;
     padding-bottom: 20px;
+    box-shadow: 5px 5px 50px rgb(3, 3, 3);
 }
 .inner-colum{
     width: 30%;
